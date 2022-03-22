@@ -10,5 +10,5 @@ Used Technologies <hr>
  <img src="/img/pandas.png" alt="pandas" width="120" height="120">
  <img src="/img/pyspark.png"  alt="pyspark" width="120" height="120">
  <img src="/img/gcp.png"  alt="gcp" width="120" height="120">
- <img src="/img/mongo.jpg"  alt="mongodb" width="120" height="120">
+ <img src="/img/mongo.png"  alt="mongodb" width="120" height="120">
  <br><br><br><br><br>
